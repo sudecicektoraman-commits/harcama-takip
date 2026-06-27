@@ -21,3 +21,4 @@ harcama-takip/
 ## GitHub Proje Bağlantısı
 [https://github.com/sudecicektoraman-commits/harcama-takip]
 (https://github.com/sudecicektoraman-commits/harcama-takip)
+https://sudecicektoraman-commits.github.io/harcama-takip/
